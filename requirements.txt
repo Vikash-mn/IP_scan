@@ -1,0 +1,33 @@
+# Core Requirements
+ipaddress==1.0.23
+requests==2.31.0
+dnspython==2.4.2
+python-nmap==0.7.1
+paramiko==3.4.0
+scapy==2.5.0
+geoip2
+speedtest-cli==2.1.3
+python-whois==0.9.0
+cryptography==42.0.4
+beautifulsoup4==4.12.3
+matplotlib==3.8.3
+numpy==1.26.4
+pandas==2.2.1
+netifaces==0.11.0
+pyperclip==1.8.2
+qrcode==7.4.2
+folium==0.15.1
+reportlab==4.1.0
+
+# GUI Requirements
+Pillow==10.2.0
+tkintertable==1.3.3
+
+# Optional (for enhanced functionality)
+python-socketio==5.11.2
+maxminddb==2.4.0
+
+# Development Requirements
+pytest==8.0.2
+black==24.2.0
+flake8==7.0.0
